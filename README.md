@@ -78,7 +78,7 @@ This repository contains the projects completed during my Data Science Internshi
 
 # 🚀 How to Run
 
-- Clone the repository:
+Clone the repository:
 
 Bash
 
