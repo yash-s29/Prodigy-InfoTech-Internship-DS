@@ -80,14 +80,12 @@ This repository contains the projects completed during my Data Science Internshi
 
 Clone the repository:
 
-Bash
-
 git clone https://github.com/yash-s29/Prodigy-Infotech-DS.git
+
 Install dependencies:
 
-Bash
-
 pip install -r requirements.txt
+
 Open the .ipynb files in Jupyter Notebook or VS Code to view the analysis.
 
 # 📬 Contact
